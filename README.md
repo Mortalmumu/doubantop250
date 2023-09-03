@@ -1,2 +1,2 @@
 # doubantop250
-this is carwler for doubt movie top250
+this is carwler for douban movie top250
